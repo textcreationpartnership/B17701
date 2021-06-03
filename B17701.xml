@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A scheme of prophecy now to be fulfilled beginning this present year 1691, and so to be carried on to the succession of the kingdom of Christ, 1697, assuring the success of the King's present expedition.</title>
+            <author>Beverley, Thomas.</author>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17701</idno><idno type="EEBO-CITATION">15237446</idno>
+  <idno type="VID">200533</idno>
+  <idno type="EEBO-PROQUEST">2240876085</idno>
+  
+            <idno type="STC">Wing B2172</idno>
+            <idno type="OCLC">15237446</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17701)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200533)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1141:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A scheme of prophecy now to be fulfilled beginning this present year 1691, and so to be carried on to the succession of the kingdom of Christ, 1697, assuring the success of the King's present expedition.</title>
+                  <author>Beverley, Thomas.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Beverley by Wing.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: cropped, with loss of print.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible --  Prophecies --  Second Advent.</term>
+               <term type="topical_term">Second Advent --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:200533:1"/>
+            <pb n="1" facs="tcp:200533:1"/>
+            <head>A <hi>Scheme of Prophecy</hi> Now to be Fulfilled; Beginning this present Year, 1691; And so to be car<g ref="char:EOLhyphen"/>ried on to the Succssion of the <hi>Kingdom of Christ,</hi> 1697. Assuring the <hi>Success</hi> of the KING's Pre<g ref="char:EOLhyphen"/>sent <hi>EXPEDITION.</hi>
+            </head>
+            <head type="sub">With a most Humble <hi>Appeal</hi> upon it to HIM, who <q>Frustrateth the <hi>Tokens of Lyars, and maketh Diviners Mad; That turneth Wise Men Backward, and maketh their Knowledge Foolishness; But Confirmeth the Word of His Servants, and Performeth the Counsel of His Messengers;</hi>
+                  <bibl>Isaiah xliv. 26.</bibl>
+               </q>
+            </head>
+            <p>AS I have made an <hi>Appeal</hi> to All, who will set Themselves to Consider <hi>Scri<g ref="char:EOLhyphen"/>pture,</hi> Concerning the <hi>Spirits speaking Expresly,</hi> or word for word, of the <hi>Thousand Years Kingdom of our Lord Jesus Christ,</hi> by a Compare of Plain <hi>Do<g ref="char:EOLhyphen"/>ctrinal</hi> and <hi>Prophetical Scripture;</hi> So it hath Pleased God to put it into my Thoughts to Give a <hi>Scheme of Prophecy,</hi> concerning the Things to Come to Pass, these Six next ensuing Years, until 1697. When I Affirm, This <hi>Kingdom of Christ</hi> will be in its Succession, to prepare in 75, for its <hi>Thousand Years Glory.</hi> But because <hi>Prophetical Arguments</hi> are so little Heeded, and so hardly Understood; I herein make an <hi>Appeal</hi> concerning its <hi>Truth</hi> unto <hi>Him,</hi> who by his <hi>Almighty Disposes,</hi> is A<g ref="char:EOLhyphen"/>ble to Give the Undeniable Assurance of Matter of Fact, and to Justifie my <hi>Prophe<g ref="char:EOLhyphen"/>tical Grounds</hi> by Event.</p>
+            <p>The <hi>Prophetical Assertion,</hi> or <hi>Prediction,</hi> I Declare, is, That <hi>God</hi> will Bless the <hi>Ex<g ref="char:EOLhyphen"/>pedition</hi> and <hi>Conduct</hi> of the <hi>King</hi> this <hi>Summer,</hi> with this <hi>Great and Happy Event;</hi> That the <hi>Vaudois</hi> and <hi>French-Suffering Protestants</hi> who have so long Lain, as in a State of being Kill'd, shall see the <hi>Dawn</hi> of the <hi>Morning-Star,</hi> and Begin to use the <hi>Rod of Iron</hi> upon the <hi>Antichristian Tyranny</hi> over Them.</p>
+            <p>The <hi>Grounds</hi> I have for this in <hi>Prophecy,</hi> are, The <hi>Church of Thyatyra</hi> is the <hi>Great Symbol</hi> of these <hi>Suffering Witnesses,</hi> whose High Opposition to the <hi>Kingdom of Anti<g ref="char:EOLhyphen"/>christ,</hi>
+               <pb n="2" facs="tcp:200533:2"/>and Appearance for the <hi>Kingdom of Christ,</hi> is made Remarkable, by not only <hi>Christ knowing its Works,</hi> as in the other <hi>Churches,</hi> but by a <hi>Secret Remark</hi> of Their <hi>Works:</hi> Besides, and Distinct from Their <hi>Faith, Love,</hi> and <hi>Patience;</hi> And Their <hi>Last Works</hi> are Observed by <hi>Christ</hi> to be <hi>Greater, Larger, Richer, More Worthy</hi> than Their <hi>First.</hi> Now to Those of this <hi>Church,</hi> who shall not only <hi>Overcome,</hi> but <hi>Keep</hi> the <hi>Works of Christ</hi> to the End▪ He Promises the <hi>Morning-Star,</hi> and in a Peculiar manner the Use of the <hi>Iron Rod.</hi>
+            </p>
+            <p>The Time of the <hi>End</hi> then being so near, and They having by so long a Succes<g ref="char:EOLhyphen"/>sion, Signified by the Word, <hi>[The Rest of Thyatyra]</hi> Held the <hi>Works of Christ</hi> so near that <hi>End,</hi> and so near the <hi>Morning,</hi> I with Humble Confidence Foretel; The <hi>Morn<g ref="char:EOLhyphen"/>ing-Star</hi> is near to <hi>Dawn on Them,</hi> and the <hi>Iron Rod</hi> Ready to be Put into <hi>Their Hand.</hi> that They may Use it upon their <hi>Persecutors.</hi> For these <hi>Works of Christ</hi> in Owning and Appearing for his <hi>Kingdom,</hi> are most Illustriously joyn'd with Their <hi>Overcoming;</hi> Disserent from any other of these <hi>Seven Churches;</hi> and They shall be Their <hi>Last, Greater, Nobler,</hi> than Their <hi>First.</hi>
+            </p>
+            <p>Herein I Know and Understand my own <hi>Prophetical Grounds;</hi> But They lying Deep in <hi>Prophecy,</hi> and so not easie to be Drawn out unto Publick View, I humbly make Appeal to <hi>Almighty Providence</hi> this <hi>Summer,</hi> Concerning Their <hi>Truth,</hi> and shall Present this Short and more Easie <hi>Scheme</hi> in these Three <hi>Heads.</hi>
+            </p>
+            <p n="1">1. There are some Things so Clear in <hi>Prophecy,</hi> That I call Them <hi>Postulates.</hi>
+            </p>
+            <p>
+               <hi>Post.</hi> 1. That we are now under the Last <hi>Apocalyptical Scaling;</hi> viz. The <hi>Sealing of the Thunders;</hi> For when the <hi>Seven Seals</hi> were <hi>Opened,</hi> then the 144000 <hi>Witnesses</hi> were <hi>Sealed,</hi> The <hi>Time</hi> and <hi>Times</hi> of their <hi>Sealing,</hi> and the Last <hi>Half-Time</hi> of it being En<g ref="char:EOLhyphen"/>ter'd, the <hi>Book</hi> was <hi>Held Open;</hi> on which <hi>Seven Thunders Ʋttered their Voices,</hi> and so All had been <hi>Opened,</hi> if those <hi>Thunders</hi> had not been <hi>Seal'd.</hi> This being then at the <hi>Last Half-Time,</hi> beyond which there should be by the <hi>Oath of the Angel, No more such Time,</hi> must needs be the Last 180 of the 1260. And being at the <hi>Reformation,</hi> which could not have been with such a Diminution of the <hi>Beastian Kingdom</hi> sooner than <hi>Half-Time</hi> Began; And that being at 1517, we must be now within Six Years of the End of the 1260 Days of the <hi>Seventh Trumpet,</hi> and of the Proclaiming the <hi>Kingdom of Christ</hi> in Succession, and so within Six of the Last 75, of the 2300 <hi>Eves Morns</hi> Reserved for the <hi>Kingdom of Christ</hi>'s preparation for it self before the <hi>Thousand Years Glory.</hi>
+            </p>
+            <p n="2">2ly. The <hi>Ten Kings</hi> must be <hi>Ten Kings</hi> to the Last; And as in so many Distinct <hi>Monarchies,</hi> and not Engross'd into the <hi>Empire</hi> or Universal <hi>Monarchy</hi> of One; As <hi>Ten</hi> They gave Their <hi>Kingdom</hi> to the <hi>Beast;</hi> As <hi>Ten</hi> They shall Hate the <hi>Whore:</hi> Therefore no One shall Comprehend the Other in an <hi>Empire</hi> over the Rest.</p>
+            <p n="3">3ly. The <hi>Greatness</hi> of the <hi>Roman Church</hi> and its <hi>Papacy,</hi> shall <hi>Fall</hi> before the <hi>Turk Fulls,</hi> For the <hi>Tenth</hi> of the <hi>Great City</hi> shall <hi>Fall</hi> before the <hi>Second Woe,</hi> which was of the <hi>Turkish Tyranny,</hi> shall pass away.</p>
+            <p n="4">4ly. The <hi>Churches,</hi> and <hi>Nations</hi> Rescued from <hi>Papal Tyranny,</hi> by <hi>Christ,</hi> and by the <hi>Thunders uttering their Voices,</hi> shall not be Repriz'd back by <hi>Papal Power:</hi> For then that <hi>Glorious Appearance of Christ</hi> making his Claim, and the <hi>Thunders uttering their Voices,</hi> had been in vain, and the whole Work to Do Anew; Which would not Become the <hi>Glory of Christ</hi> so Celebrating <hi>Half-Time</hi> Beginning.</p>
+            <p n="5">5ly. The <hi>Protestant Churches</hi> lying in the <hi>Bowels</hi> of <hi>Popish Territories</hi> and <hi>Laws,</hi> or even <hi>Natives,</hi> as in <hi>Ireland,</hi> though they were subject to the Breaking out of such <hi>Tyranny</hi> upon Them, until near the End, Yet it is to the <hi>Glory of Christ,</hi> that near that End, They should be Restor'd to any of the Freest Times, and Higher than They
+<pb n="3" facs="tcp:200533:2"/>have Enjoyed since the <hi>Reformation;</hi> And the End being now so near, it is to be Ex<g ref="char:EOLhyphen"/>pected, there should be an Appearance of their <hi>Standing,</hi> as the <hi>Witnesses on their Feet,</hi> by a <hi>Dawning of the Morning-Star</hi> upon Them, and a Putting the <hi>Iron Rod into their Hand.</hi> For all this, as it is most Agreeable to the <hi>Prophecy of the Revelation;</hi> so to the <hi>Prophecy</hi> of <hi>Zechary,</hi> That Foretels, That <hi>One Day</hi> of <hi>Two Half-Days,</hi> Known to the <hi>Lord,</hi> contrary to other Times of Deliverance, Its <hi>Half-Time,</hi> or <hi>Evening,</hi> shall in that After-part, or <hi>Evening,</hi> be <hi>Light;</hi> For the other Part of that <hi>Half-Time,</hi> or <hi>Half-Day,</hi> shall be the <hi>Kingdom of Christ in Succession;</hi> Proportionably towards the very End of the <hi>Half-Time,</hi> it shall be <hi>Light.</hi>
+            </p>
+            <p>Sixthly, There being a <hi>They of the Synagogue of Satan,</hi> Rising out of the Splen<g ref="char:EOLhyphen"/>did Pompous, though <hi>Protestant-Church,</hi> of <hi>Sardis,</hi> first severe upon Those, who shall after Constitute the <hi>Philadelphian-Church,</hi> and endeavouring to <hi>Shut the Door,</hi> Christ both <hi>Set,</hi> and will keep <hi>Open for Them:</hi> There shall be a Preparation even of such to Come Bending to <hi>Philadelphia,</hi> and to <hi>Worship at its Feet,</hi> and to <hi>Know, Christ loves it:</hi> Which is Daily to be more and more Expected, together with the <hi>Morning-Star</hi> Dawning on the <hi>Suffering French</hi> and <hi>Vaudois,</hi> and the <hi>Iron Rod</hi> put into their Hand.</p>
+            <p>Let Us now Observe on the <hi>Second Head,</hi> the <hi>Balance of Providence</hi> of Late Time, according to this Judgment upon <hi>Prophecy,</hi> and in Confirmation of Its giving Hopes, that what is now spoken, shall be Fulfilled, Even as already It hath been, in these Observations following.</p>
+            <p>
+               <hi>Observ.</hi> 1. Because <hi>Half-Time,</hi> as hath been Observ'd often, is not yet Run out; There are so many of the <hi>Ten Kings,</hi> who continue to <hi>Give Their Kingdom to the Beast;</hi> and the <hi>Conclave</hi> is at this Time engag'd in a <hi>Papal Election,</hi> and so many Princes Endeavouring to Concert the Choice with their Interests.</p>
+            <p>
+               <hi>Observat.</hi> 2. Because the <hi>Half-Time</hi> also is not yet Run out: We Observe a Pom<g ref="char:EOLhyphen"/>pous <hi>Sardian Church</hi> with its <hi>Hierarchick Feet of Clay,</hi> and Elections to that very pur<g ref="char:EOLhyphen"/>pose Remarkably at the same Time with the Instant <hi>Conclave</hi> in its <hi>Election.</hi> All which Derives from that <hi>Primitive Synagogue of Satan,</hi> as hath been also Largely heretofore even as now Declard, and a <hi>Ceremonial Formal-worship</hi> suited to it.</p>
+            <p>
+               <hi>Observat.</hi> 3 Because the <hi>Turkish Fall</hi> is to Attend the <hi>Papal</hi> and <hi>Roman,</hi> as hath been often heretofore observ'd; Therefore when its Fall seem'd so in View, the <hi>French Power</hi> (so Order'd by Supream Providence working as by a <hi>Wheel within a Wheel,</hi>) In<g ref="char:EOLhyphen"/>terpos'd for its Respite by such Attacks on the <hi>Empire.</hi>
+            </p>
+            <p>
+               <hi>Observat.</hi> 4. Because the <hi>Kings</hi> are to be <hi>Ten,</hi> till in that Configura<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, <hi>They hate the Whore;</hi> even the Princes, yet <hi>Giving their Kingdom to the Beast,</hi> yea the <hi>Papal See</hi> its self is Confederated against the <hi>Freuch</hi> Aspirings to <hi>Imperial</hi> Power. This hath also been before Remarkt.</p>
+            <p>
+               <hi>Observ.</hi> 5. Because none of the <hi>Kingdoms</hi> Rescu'd from the <hi>Papacy</hi> are to be Re<g ref="char:EOLhyphen"/>priz'd to it: Therefore by so Immediate a Hand of Providence was a <hi>Papal Prince,</hi>
+               <note n="*" place="margin">
+                  <hi>See K.</hi> James<hi>'s Letter to the Pope, in L.</hi> Preston<hi>'s Tryal at the end.</hi>
+               </note> Acknowledging his Intention to have Ren<g ref="char:EOLhyphen"/>der'd back These Nations under that <hi>Supremacy,</hi> Remov'd, and a <hi>Protestant Prince</hi> brought in, as on the very Wings of <hi>Prophecy;</hi> Therefore was there so Wonderful a <hi>Victory</hi> last <hi>Summer</hi> at the <hi>BOYN,</hi> Settling a <hi>Protestant Supream</hi> in <hi>Ireland;</hi> And yet because <hi>Ireland</hi> is a Country of <hi>Popish Natives,</hi> it stopp'd there: All which was Predicted ac<g ref="char:EOLhyphen"/>cording to <hi>Prophecy,</hi> even before that <hi>Victory.</hi>
+            </p>
+            <p>
+               <hi>Observ.</hi> 6. Because the <hi>Suffering-Witnesses</hi> of the <hi>French</hi> and <hi>Vaudois</hi> are to See the <hi>Morning-Star,</hi> and to be Entrusted with the <hi>Rod of Iron;</hi> Therefore even <hi>Popish Prin<g ref="char:EOLhyphen"/>ces</hi>
+               <pb n="4" facs="tcp:200533:3"/>are made Helpful to Them, and especially so <hi>Great a Protestant PRINCE</hi> is Commanded by God to be at the Head of a <hi>Confederate Army;</hi> And it is to be Hop'd, This shall at Least prepare for that which is to Bee; Even The <hi>Hating the Whore</hi> by Those <hi>Confederate Princes;</hi> who have not yet <hi>Abdicated</hi> that <hi>Antichristian Church.</hi>
+            </p>
+            <p>
+               <hi>Observ.</hi> 7. Because the <hi>They of the Synagogue of Satan,</hi> are to <hi>Worship at the Feet of Philadelphia</hi> so soon; Therefore in Preparation hath there been so Great an <hi>Episcopal Revolution</hi> as we now see even in this Nation; The most Eminent of which are, It is to be Hoped, in their own Persons of the <hi>Ʋndefiled Names of Sardis:</hi> Although that cannot Attone for the Constitution; But it must and shall Fall in the Approaching. Grand <hi>Re-Reformation.</hi> Yet I doubt not, it makes way to a far Greater Union of all <hi>Churches</hi> and <hi>Judgments,</hi> then can, at the Persent be seen; And It Runs to that <hi>Greatest Ʋnion</hi> that shall Contemporate with the <hi>Two Sticks of Judah</hi> and <hi>Joseph</hi> United; even the <hi>Israelitish</hi> and <hi>Gentile Churches,</hi> the whole <hi>Isaerl of God made one.</hi>
+            </p>
+            <p>In all these Things, I have found hitherto a Wonderful Concert betwixt my <hi>Prophetical Models</hi> and the Late <hi>Governments of Providence;</hi> But with an Highest Ar<g ref="char:EOLhyphen"/>dency of Affection and Prayer, I wait for the Gracious Answer of this <hi>Appeal,</hi> in some Illustrious Success of this present <hi>ROYAL EXPEDITION.</hi>
+            </p>
+            <p>And though so Great a Formality, Security, Worldliness, such Feuds and Ani<g ref="char:EOLhyphen"/>mosities found in the <hi>Best Churches,</hi> and <hi>Persons;</hi> such a Deluge of Profaneness and Debauchery found in the Generality; Seem most certain Presages of Ruine; And so many <hi>French</hi> Vanities and Sins, more Dreadful than <hi>French Pensionaries,</hi> and secret <hi>Partisans;</hi> (Though They Humanely speaking, are Dreadful enough;) Look as a Surer Prophecy of a <hi>French</hi> Victoriousness and Servitude under it, than what I here offer; Yet because the <hi>Kingdom of Christ</hi> is Principally Concern'd, and <hi>Prophecy</hi> Rests upon that, I doubt not still to make the <hi>Appeal</hi> with Humble Boldness, and Assurance; And to say, <hi>God will work for his Names Sake,</hi> and will either <hi>Reform,</hi> or by some other Method of Judgment, then that of <hi>French</hi> or <hi>Papal Tyranny,</hi> Punish the <hi>Out<g ref="char:EOLhyphen"/>ward Court-Protestancy</hi> of these Nations, and of other <hi>Protesta t States</hi> and <hi>Churches;</hi> His Servants <hi>Keeping no Silence,</hi> nor <hi>Giving Him Rest Day</hi> or <hi>Night,</hi> Till <hi>He make Jerusalem a Praise in the Earth.</hi>
+            </p>
+            <p>For when I find <hi>God</hi> hath so laid Things together, according to the whole <hi>Pro<g ref="char:EOLhyphen"/>phetick Idea</hi> before us; That He hath stirr'd up the <hi>Spirit of a Protestant Prince,</hi> whose Grand Motions, (however he may Discover the Frailty of a Man in his smaller Administrations) Look up as of <hi>Divine Erection</hi> and <hi>Inspiration;</hi> and that <hi>God</hi> hath put <hi>Life</hi> in those <hi>Suffering-Witnesses,</hi> under so Great a <hi>Minister</hi> of <hi>His Gospel,</hi> and <hi>Com<g ref="char:EOLhyphen"/>mander</hi> together; <hi>M. Arnold;</hi> That he hath Congregated the other <hi>Ten Kings,</hi> and even the <hi>Papal Head</hi> to keep <hi>France</hi> to the Tenour of Prophecy, as but a <hi>Tenth Horn;</hi> and to Repress his <hi>Exorbitancy;</hi> That the <hi>Turk</hi> Survives, and yet shall not Exceed the Bounds set Him, but rather Verge to his Fall; That the <hi>Protestant Churches</hi> Abroad and at Home, and particularly the <hi>Church of England</hi> hold, each their <hi>State,</hi> according to the very Model given; That <hi>Ireland</hi> is upon its <hi>Reduction,</hi> though more slowly; I fear not <hi>God</hi> will give <hi>Judgment</hi> for Me in this <hi>Appeal,</hi> as <hi>He</hi> hath hitherto done; Although the <hi>Churches</hi> abroad ought much to awaken to a <hi>Higher Re-Reformation,</hi> Al<g ref="char:EOLhyphen"/>though the <hi>Nation,</hi> and <hi>Church,</hi> and even <hi>Churches of England</hi> need much of the <hi>Refining Fire,</hi> and <hi>Fullers-Soap;</hi> And although the <hi>Appellant</hi> be most Unworthy of All, whom <hi>God</hi> should Hear; yet because <hi>All is for the Kingdom,</hi> and <hi>through the Death and Intercession of Christ</hi> for <hi>Transgressors,</hi> who is so near to have <hi>Portion divided Him</hi> with the <hi>Great,</hi> and <hi>to divide the Spoil with the Strong;</hi> I shall not <hi>sear,</hi> that <hi>God</hi> so near the <hi>very Time,</hi> will Disannul so <hi>Great Appearances;</hi> I <hi>Stand</hi> therefore on my <hi>Watch-Tower Day and Night,</hi> and <hi>Watch</hi> to <hi>See</hi> what <hi>He will say to me,</hi> and what <hi>I shall Answer</hi> on any of <hi>His Counter, Arguments:</hi> For <hi>He</hi> will Enable Me to <hi>Answer Them.</hi>
+            </p>
+            <pb facs="tcp:200533:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
